@@ -1,6 +1,6 @@
 @use "sass:meta";
 @use "sass:math";
-@use "sass: map";
+@use "sass:map";
 @use "breakpoints" as *;
 
 @mixin mq($size) {
